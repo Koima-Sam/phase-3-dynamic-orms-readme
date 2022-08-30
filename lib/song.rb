@@ -61,4 +61,6 @@ class Song
 end
 
 
+puts Song.table_name
+
 
